@@ -1,5 +1,4 @@
-# SBSC
-A Smart Band for the Senior Citizens
+# Smart Band for the Senior Citizens
 
 Most of the senior citizens/bed ridden people need 24/7 assistance for fulfilling their basic needs which is practically impossible in today’s world .
 Most of the senior citizens get critically injured due to fall and need timely medical assistance.
